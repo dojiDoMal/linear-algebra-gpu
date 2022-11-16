@@ -1,6 +1,6 @@
 {
   "name": "lial-gpu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "library of functions to compute matrix operations using the GPU",
   "main": "index.js",
   "scripts": {
