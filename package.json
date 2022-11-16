@@ -1,0 +1,27 @@
+{
+  "name": "lial-gpu",
+  "version": "1.0.0",
+  "description": "library of functions to compute matrix operations using the GPU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dojiDoMal/linear-algebra-gpu.git"
+  },
+  "keywords": [
+    "GPU",
+    "algebra",
+    "matrix"
+  ],
+  "author": "Anderson Araujo Macedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dojiDoMal/linear-algebra-gpu/issues"
+  },
+  "homepage": "https://github.com/dojiDoMal/linear-algebra-gpu#readme",
+  "dependencies": {
+    "gpu.js": "^2.15.2"
+  }
+}
